@@ -4,7 +4,7 @@ This template is created for Rimworld modders who use [Visual Studio Code](https
 
 * __No virtual folders__. Easy to manage and edit both `xml` and `cs` files.
 
-* __Lightweight__. Visual Studio Code only takes up to 200 MB of storage space and is lighting fast.
+* __Lightweight__. Visual Studio Code only takes up around 300 MB of storage space and is lighting fast.
 
 * __Automated__. Integrated build, scripting and management tools to perform common tasks making everyday workflows faster.
 
